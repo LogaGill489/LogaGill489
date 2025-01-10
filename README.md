@@ -8,7 +8,8 @@
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/logan-gillett-941797327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-gillett-941797327" height="30" width="40" /></a>
-<a href="mailto:l2gillet@uwaterloo.ca" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png)" alt="gmail" width="52" height="40"/> </a>
+<a href="mailto:l2gillet@uwaterloo.ca" target="_blank" rel="noreferrer"> <img src="![Untitled](https://github.com/user-attachments/assets/b0e63bb2-6554-47f6-8dc4-78ee60018b51)
+" alt="outlook" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
