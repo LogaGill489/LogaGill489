@@ -6,9 +6,8 @@
 - 🌱 I’m currently learning **Javascript** & **Typescript.**
 
 <h3 align="left">Let's Connect:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/logan-gillett-941797327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-gillett-941797327" height="30" width="40" /></a>
-<a href="mailto:l2gillet@uwaterloo.ca" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" width="40" height="30"/> </a>
+<p align="left"> <a href="https://linkedin.com/in/logan-gillett-941797327" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-gillett-941797327" height="30" width="40" /></a> 
+<a href="mailto:l2gillet@uwaterloo.ca" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" width="40" height="33"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
