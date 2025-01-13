@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Logan Gillett</h1>
 <h3 align="center">Thanks for stopping by my Github! I am a first-year Computer Engineering student at the University of Waterloo in Ontario, Canada, passionate about programming projects and learning new skills. I aspire to make meaningful projects using a variety of software and languages.</h3>
 
-- ⚡ 2+ Years of Experience in **C-based languages**. 
+- ⚡ 2+ years of experience in **C-based languages**. 
 
-- 🔭 I’m working on Designing a personal website using **React** and **Node.js.**
+- 🔭 I’m working on designing a personal website using **React** and **Node.js.**
   
 - 🌱 I’m currently learning **Javascript** and **Typescript.**
 
