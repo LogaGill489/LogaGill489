@@ -3,7 +3,7 @@
 
 - ⚡ 2+ years of experience in **C-based languages**. 
 
-- 🔭 I’m working on learning full-stack development using **React** and **Node.js.**
+- 🔭 I’m working on learning web development using **React** and **Node.js.**
   
 - 🌱 I’m currently learning **CSS** and **HTML.**
 
