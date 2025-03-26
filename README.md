@@ -5,13 +5,13 @@
 <main>
   <div class="write-stats">
     <ul>
-      <li>⚡ 2.5+ years of experience in **C-based languages**.</li>
+      <li>⚡ 2.5+ years of experience in <strong>C-Based Languages</strong>.</li>
       <br>
-      <li>💡 4 months of **web-dev** experience.</li>
+      <li>💡 4 months of <strong>web-dev</strong> experience.</li>
       <br>
-      <li>🔭 Working on my personal website **(releasing soon)** using **JQuery**, **Javascript**, **HTML**, & **CSS**.</li>
+      <li>🔭 Working on my personal website <strong>(releasing soon)</strong> using <strong>JQuery</strong>, <strong>Javascript</strong>, <strong>HTML</strong>, & <strong>CSS</strong>.</li>
       <br>
-      <li>🌱 Currently learning **CSS** and **HTML** through project work.</li>
+      <li>🌱 Currently learning <strong>CSS</strong> and <strong>HTML</strong> through project work.</li>
     </ol>
   </div>
   <div class="connect">
