@@ -5,7 +5,7 @@
 <main>
   <div class="write-stats">
     <ul>
-      <li>⚡ 2.5+ years of experience in <strong>C-Based Languages</strong>.</li>
+      <li>⚡ 3+ years of experience in <strong>C-Based Languages</strong>.</li>
       <br>
       <li>💡 4 months of <strong>web-dev</strong> experience.</li>
       <br>
