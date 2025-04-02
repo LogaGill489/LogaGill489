@@ -35,9 +35,14 @@
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
       <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" height="40"/> </a> </p>
-          <a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a> </p>
-          <a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="Visual Studio 2022" width="40" height="40"/> </a> </p>
+      <a href="https://www.w3schools.com/jquery/default.asp" target="_blank" rel="noreferrer"> <img src="jquery-icon.svg" alt="jQuery" width="40" height="40"/> </a> 
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="vscode.png" alt="Visual Studio Code" width="40" height="40"/> </a>
+      <a href="https://visualstudio.microsoft.com/fr/vs/" target="_blank" rel="noreferrer"> <img src="vs2022.png" alt="Visual Studio 2022" width="40" height="40"/> </a>
+      <a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"> <img src="autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
+      <a href="https://www.autodesk.com/ca-en/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="fusion360.png" alt="Fusion-360" width="40" height="40"/> </a>
+      <a href="https://www.raspberrypi.com/documentation/" target="_blank" rel="noreferrer"> <img src="raspberry-pi.png" alt="Raspberry-Pi" width="40" height="40"/> </a>
+      <a href="https://stm32world.com/wiki/STM32_Official_Documentation" target="_blank" rel="noreferrer"> <img src="stm32.png" alt="STM32" width="40" height="40"/> </a>
+      <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"> <img src="git.png" alt="Git" width="40" height="40"/> </a> </p>
   </div>
 </main>
 <footer>
