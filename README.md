@@ -15,7 +15,7 @@
   <div class="write-stats">&nbsp;
     🔹 I have 3+ years of experience in <strong>C-Based Languages</strong>. <br><br>&nbsp;
     🔹 I also have 3+ years working with <strong>embedded</strong> systems. <br><br>&nbsp;
-    🔹 I'm enjoy working with web developement, with 6+ months of <strong>web-dev</strong> experience using <strong>Javscript</strong> and <strong>React</strong>. <br><br>&nbsp;
+    🔹 I enjoy working on web developement projects, with 6+ months of <strong>web-dev</strong> experience using <strong>Javscript</strong> and <strong>React</strong>. <br><br>&nbsp;
     🔹 I'm working on a website for UWaterloo students <strong>(releasing soon)</strong> using <strong>Next.js</strong>. <br><br>
   <p>Outside of programming, I also enjoy spending quality time with friends and family, playing music, reading books and rock wall climbing. If you're in the Waterloo region and want to meet up, also feel free to message me!</p>
   </div>
