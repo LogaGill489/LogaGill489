@@ -5,8 +5,8 @@
   <p align="center"><a href="https://linkedin.com/in/logan-gillett-941797327" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-            gillett-941797327" height="30" width="40" /></a> 
     &nbsp;
        <a href="mailto:l2gillet@uwaterloo.ca" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" width="40" height="33"/></a>
-    &nbsp;
-    <a href="https://www.lgillett.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" width="40" height="33"/></a>
+    &nbsp;&nbsp;
+    <a href="https://www.lgillett.com/" target="_blank" rel="noreferrer"><img src="blueWebLogo.png" alt="outlook" width="40" height="30"/></a>
   </p>
 </header>
 <main>
