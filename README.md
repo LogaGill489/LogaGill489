@@ -7,11 +7,11 @@
     <ul>
       <li>⚡ 3+ years of experience in <strong>C-Based Languages</strong>.</li>
       <br>
-      <li>💡 4 months of <strong>web-dev</strong> experience.</li>
+      <li>💡 6+ months of <strong>web-dev</strong> experience.</li>
       <br>
-      <li>🔭 Working on my personal website <strong>(releasing soon)</strong> using <strong>JQuery</strong>, <strong>Javascript</strong>, <strong>HTML</strong>, & <strong>CSS</strong>.</li>
+      <li>🔭 3+ years working with <strong>embedded</strong> systems.</li>
       <br>
-      <li>🌱 Currently learning <strong>CSS</strong> and <strong>HTML</strong> through project work.</li>
+      <li>🌱 Working on a website for UWaterloo students <strong>(releasing soon)</strong> using <strong>Next.js</strong>.</li>
     </ol>
   </div>
   <div class="connect">
