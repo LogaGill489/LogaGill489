@@ -44,6 +44,7 @@
       <br><br>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/></a>
       <a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"><img src="autocad.png" alt="AutoCAD" width="40" height="40"/></a>
+      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
       <a href="https://www.autodesk.com/ca-en/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"><img src="fusion360.png" alt="Fusion-360" width="40" height="40"/></a>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
       <a href="https://www.raspberrypi.com/documentation/" target="_blank" rel="noreferrer"><img src="raspberry-pi.png" alt="Raspberry-Pi" width="40" height="40"/></a>
