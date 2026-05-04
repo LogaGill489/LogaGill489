@@ -2,7 +2,7 @@
   <h1 align="center">Hey 👋, I'm Logan Gillett</h1>
 <h3 align="center">Thanks for stopping by my Github!</h3>
   <p align="center">I am a second-year Computer Engineering student at the University of Waterloo in Ontario, Canada, and am experienced in a number of programming languages as well as have worked on multiple embedded projects. I aspire to create meaningful things that help others! If you want to learn more about me or just generally reach out, send me an email or check out my personal website, I'd be happy to chat!</p>
-  <p align="center"><a href="https://linkedin.com/in/logan-gillett-941797327" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-            gillett-941797327" height="30" width="40" /></a> 
+  <p align="center"><a href="https://linkedin.com/in/logan-gillett-941797327" target="blank"><img src="linkedin-svgrepo-com.svg" alt="logan-            gillett-941797327" height="30" width="40" /></a> 
     &nbsp;
        <a href="mailto:l2gillet@uwaterloo.ca" target="_blank" rel="noreferrer"><img src="OutlookLogo.png" alt="outlook" width="30" height="31"/></a>
     &nbsp;&nbsp;
