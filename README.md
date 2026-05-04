@@ -17,7 +17,7 @@
     🔹 I also have 3+ years working with <strong>embedded</strong> systems. <br><br>&nbsp;
     🔹 I enjoy web developement, with a year of <strong>web-dev</strong> experience using <strong>Javscript</strong>. <br><br>&nbsp;
     🔹 I'm working on a website for UWaterloo students <strong>(releasing soon)</strong> using <strong>Next.js</strong>. <br><br>
-  <p>Outside of programming, I also enjoy spending quality time with friends and family, playing music, reading books and rock wall climbing. If you're in the Waterloo region and want to meet up, also feel free to message me!</p>
+  <p>Outside of programming, I also enjoy spending quality time with friends and family, playing music, reading books and rock wall climbing. If you're in the Waterloo region and want to meet up, feel free to reach out!</p>
   </div>
       <hr>
   <div class="languages-tools">
