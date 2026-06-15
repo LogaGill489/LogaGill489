@@ -43,6 +43,8 @@
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="vscode.png" alt="Visual Studio Code" width="40" height="40"/></a>&nbsp;
       <a href="https://visualstudio.microsoft.com/fr/vs/" target="_blank" rel="noreferrer"><img src="vs2022.png" alt="Visual Studio 2022" width="40" height="40"/></a>&nbsp;
       <br><br>
+      <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"><img src="azure-devops-svgrepo-com.svg" alt="Azure" width="40" height="40"/></a>&nbsp;
+      <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="jira-svgrepo-com.svg" alt="Jira" width="40" height="40"/></a>&nbsp;
       <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="git.png" alt="Git" width="40" height="40"/></a>&nbsp;
       <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="matlab.svg" alt="matlab" width="40" height="40"/></a>&nbsp;
       <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"><img src="unreal.svg" alt="unreal" width="40" height="40"/></a>&nbsp;
